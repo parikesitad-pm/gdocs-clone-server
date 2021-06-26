@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "googledocs_clone_server",
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "ParikesitAD",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.12.15",
+    "nodemon": "^2.0.7",
+    "socket.io": "^4.1.2"
+  }
+}
